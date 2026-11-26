@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CTM-Energy/.github/main/profile/banner.svg" alt="CTM Energy — Power. Store. Scale." width="100%">
+  <img src="https://raw.githubusercontent.com/CTM-Energy/.github/a68d42ad8bc208ec3bff34e5e42d25990cf78ebb/banner.svg" alt="CTM Energy — Power. Store. Scale." width="100%">
 </p>
 
 <p align="center">
